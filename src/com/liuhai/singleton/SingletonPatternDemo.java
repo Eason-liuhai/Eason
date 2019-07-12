@@ -1,5 +1,7 @@
 package com.liuhai.singleton;
 
+
+//µ¥ÀýÄ£Ê½
 public class SingletonPatternDemo {
 	public static void main(String[] args) {
 		
