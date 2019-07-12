@@ -1,5 +1,7 @@
 package com.liuhai.factoryAbstract;
 
+
+//抽象工厂模式
 public class AbstractFactoryPatternDemo {
 	   public static void main(String[] args) {
 	 
