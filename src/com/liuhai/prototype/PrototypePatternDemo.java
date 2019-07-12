@@ -1,5 +1,7 @@
 package com.liuhai.prototype;
 
+
+//原型模式
 public class PrototypePatternDemo {
 	public static void main(String[] args) {
 		ShapeCache.loadCache();
